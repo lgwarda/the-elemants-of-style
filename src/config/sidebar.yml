@@ -1,0 +1,27 @@
+# Sidebar navigation
+
+- label: Info
+  items:
+    - label: "Legal"
+      link: "/legal"
+    - label: "About"
+      link: "/about"
+
+- label: Table of Contents
+  items:
+    - label: "Preface"
+      link: "/"
+    - label: "Chapter I"
+      link: "/introductory"
+    - label: "Chapter II"
+      link: "/elementary-rules-of-usage"
+    - label: "Chapter III"
+      link: "/elementary-principles-of-composition"
+    - label: "Chapter IV"
+      link: "/matters-of-form"
+    - label: "Chapter V"
+      link: "/commonly-misused"
+    - label: "Chapter VI"
+      link: "/spelling"
+    - label: "Chapter VII"
+      link: "/exercises"
